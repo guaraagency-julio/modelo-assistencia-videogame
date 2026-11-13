@@ -24,7 +24,7 @@ jobs:
       - name: Reunir arquivos estáticos
         run: |
           mkdir -p dist
-          cp index.html favicon.svg og-preview.svg dist/
+          cp index.html favicon.svg og-preview.svg og-preview.png dist/
       - name: Enviar artefato
         uses: actions/upload-pages-artifact@v4
         with:
