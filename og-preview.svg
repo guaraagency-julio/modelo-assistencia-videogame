@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1627"/><stop offset="1" stop-color="#1b2e54"/></linearGradient><radialGradient id="b"><stop stop-color="#537ffb" stop-opacity=".65"/><stop offset="1" stop-color="#537ffb" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="630" fill="url(#a)"/><circle cx="945" cy="300" r="350" fill="url(#b)"/>
+<g opacity=".12" stroke="#a5c6ff"><path d="M0 100H1200M0 200H1200M0 300H1200M0 400H1200M0 500H1200M100 0V630M200 0V630M300 0V630M400 0V630M500 0V630M600 0V630M700 0V630M800 0V630M900 0V630M1000 0V630M1100 0V630"/></g>
+<rect x="72" y="82" width="64" height="64" rx="16" fill="#315cf4"/><text x="90" y="130" font-family="Arial,sans-serif" font-weight="800" font-size="42" fill="#fff">V</text>
+<text x="154" y="129" font-family="Arial,sans-serif" font-size="42" font-weight="800" fill="#fff" letter-spacing="-3">vetra.</text>
+<text x="72" y="254" font-family="Arial,sans-serif" font-weight="800" font-size="69" fill="#fff">GAME LAB</text>
+<text x="72" y="314" font-family="Arial,sans-serif" font-size="29" fill="#b6cbef">Assistência técnica de videogames</text>
+<rect x="72" y="367" width="532" height="2" fill="#4777fa"/>
+<text x="72" y="429" font-family="Arial,sans-serif" font-size="25" fill="#e1ebff">Reparo HDMI · Reballing BGA</text>
+<text x="72" y="466" font-family="Arial,sans-serif" font-size="25" fill="#e1ebff">Manutenção térmica · Controles</text>
+<text x="72" y="557" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" font-weight="700" fill="#92a8c8">DEMO · GUARÁ AGENCY</text>
+<g transform="translate(840 94) rotate(10 130 220)"><rect x="60" y="4" width="180" height="432" rx="32" fill="#070b16"/><path d="M84 4L154 4 120 435 38 435Z" fill="#f6f8ff"/><path d="M163 4L221 4 267 435 197 435Z" fill="#d8e3fc"/><path d="M144 50L147 365" stroke="#4e95ff" stroke-width="5"/><circle cx="165" cy="230" r="12" fill="none" stroke="#4e95ff" stroke-width="3"/></g>
+<g transform="translate(740 350) rotate(-12 160 90)"><path d="M25 78C5 18 96 -9 126 31L211 31C253 -11 331 22 308 82L287 144C275 182 244 184 224 146L207 115H118L94 149C66 195 35 165 25 78Z" fill="#e4edff" stroke="#9db3dc" stroke-width="6"/><rect x="131" y="36" width="73" height="31" rx="9" fill="#172b50"/><circle cx="127" cy="99" r="17" fill="#1e3558"/><circle cx="205" cy="99" r="17" fill="#1e3558"/><path d="M73 67v41m-20-21h41" stroke="#1e3558" stroke-width="10" stroke-linecap="round"/><circle cx="243" cy="63" r="7" fill="#5583f7"/><circle cx="262" cy="80" r="7" fill="#5583f7"/><circle cx="223" cy="81" r="7" fill="#5583f7"/></g>
+</svg>
